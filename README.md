@@ -1,6 +1,6 @@
 # cropSelect
 cropSelect is a React Native application designed to assist farmers with agriculture-related predictions and recommendations. It leverages machine learning models to provide insights into yield prediction, crop recommendation, fertilizer recommendation, and crop price prediction.
-![IMG-20240513-WA0001](https://github.com/manthankhawse/cropSelect/assets/86763361/a64a7192-1d21-4101-a997-403ed3e7e898) ![IMG-20240423-WA0001](https://github.com/manthankhawse/cropSelect/assets/86763361/35570d36-3031-488b-80ed-f8ee3e634651)
+<img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240423-WA0001.jpg?raw=true" width="200" />
 
 ## Features
 
