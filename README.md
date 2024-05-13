@@ -39,7 +39,7 @@ Input Features: State, district, market, crop name, month, year, day of the week
 
 <p float="left">
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0008.jpg?raw=true" width="200" />
-<img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0008.jpg?raw=true" width="200" />
+<img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0007.jpg?raw=true" width="200" />
 </p>
 
 
