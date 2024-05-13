@@ -17,6 +17,8 @@ Input Features: Crop name, season, state, area, annual rainfall, fertilizer amou
 
 **Crop Recommendation**:
 Input Features: N, P, K contents of the soil, rainfall, humidity, temperature, soil pH.
+
+
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0003.jpg?raw=true" width="200" />
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0004.jpg?raw=true" width="200" />
 
@@ -24,6 +26,8 @@ Input Features: N, P, K contents of the soil, rainfall, humidity, temperature, s
 
 **Fertilizer Recommendation**:
 Input Features: Humidity, moisture, soil type, temperature, crop type, NPK contents.
+
+
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0009.jpg?raw=true" width="200" />
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0006.jpg?raw=true" width="200" />
 
@@ -31,6 +35,8 @@ Input Features: Humidity, moisture, soil type, temperature, crop type, NPK conte
 
 **Crop Price Prediction**:
 Input Features: State, district, market, crop name, month, year, day of the week.
+
+
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0008.jpg?raw=true" width="200" />
 <img src="https://github.com/manthankhawse/cropSelect/blob/main/Images/IMG-20240513-WA0008.jpg?raw=true" width="200" />
 
