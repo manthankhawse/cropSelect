@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "CropSelect",
+    "slug": "CropSelect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/farmer.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/farmer.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/farmer.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.manthankhawse.CropSelect"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37d230a6-2daa-4554-ac3a-df45c1db40ac"
+      }
+    }
+  }
+}
